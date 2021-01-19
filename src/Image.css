@@ -1,0 +1,12 @@
+.imageBox {
+  border: 2px solid rgb(95, 74, 97);
+  height: 200px;
+  overflow: hidden;
+  resize: both;
+  width: 300px;
+}
+img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}

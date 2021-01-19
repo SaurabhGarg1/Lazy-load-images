@@ -1,5 +1,5 @@
 {
-  "name": "my-mounting-test",
+  "name": "lazy-load-images",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
